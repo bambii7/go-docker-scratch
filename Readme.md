@@ -13,3 +13,8 @@ Docker to build and run
 # Run
 
 `docker run --rm -i -t go_scratch`
+
+
+If everything went well we should see the following output
+
+> hello world
