@@ -8,8 +8,8 @@ Prerequisite
 Git to clone this repo
 Docker to build and run
 
-`docker build .`
+`docker build -t go_scratch .`
 
 # Run
 
-`docker run --rm -i -t 93a576474dbd`
+`docker run --rm -i -t go_scratch`
